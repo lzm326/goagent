@@ -1,4 +1,4 @@
-application: your_appid
+application: lzm326
 version: 1
 runtime: python27
 api_version: 1
